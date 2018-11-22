@@ -40,5 +40,8 @@ else:
 
     # 回答 yes 即打开论文详情网页
     if detail == "yes":
-        webbrowser.open(df['url'][int(num)])
+        webbrowser.open(df['url'][int(num) - 1])
 
+
+# 清空 paper.csv 文件
+open('paper.csv', 'w').close()
