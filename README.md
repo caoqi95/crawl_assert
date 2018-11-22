@@ -6,15 +6,15 @@
 
 + 在 Anaconda 中创建 `scrapy` 环境
 
-+ 安装 scrapy
-+ 安装 pandas
++ 安装 `scrapy`
++ 安装 `pandas`
 
 ### 使用
 
 
-1. 将 readOrNot.py 复制到 `C:/User/User` 目录下
+1. 将 readOrNot.py 复制到 `C:/User/Username` 目录下
 2. 注意代码中的路径
-3. 打开 CMD 
+3. 打开 `CMD `
 3. 激活环境 `activate scrapy`
 4. 运行 `python readOrNot.py`
 
