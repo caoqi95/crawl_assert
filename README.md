@@ -12,7 +12,7 @@
 ### 使用
 
 
-1. 将 `readOrNot.py` 复制到 `C:/User/Username` 目录下
+1. 将 `readOrNot.py` 复制到 `C:/Users/Username` 目录下
 2. 注意代码中的路径
 3. 打开 `CMD `
 3. 激活环境 `activate scrapy`
